@@ -35,6 +35,11 @@ set(gca,'Fontsize',6.8);
 ylabel('significant pathways')
 xlabel('pearsons correlation coefficient')
 
-
-
+% 
+% g = table()
+% g.pathways = meta.pathways.id'
+% g.pearson_correlation_coeff = r'
+% g.pearson_p_val = p'
+% g.adjusted_pval = padj'
+% g.significant = h'
 

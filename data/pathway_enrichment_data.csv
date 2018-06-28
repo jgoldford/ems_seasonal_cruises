@@ -1,0 +1,101 @@
+pathway,pearson_correlation_coeff,pearson_p_val,adjusted_pval,significant
+00010 Glycolysis / Gluconeogenesis [PATH:ko00010],0.77460513,8.13E-22,7.39E-21,1
+00020 Citrate cycle (TCA cycle) [PATH:ko00020],0.41776254,1.13E-05,1.95E-05,1
+00030 Pentose phosphate pathway [PATH:ko00030],-0.010549872,0.915768225,0.941753186,0
+00040 Pentose and glucuronate interconversions [PATH:ko00040],-0.118218094,0.234315383,0.254690634,0
+00051 Fructose and mannose metabolism [PATH:ko00051],-0.3140751,0.001234548,0.001646064,1
+00052 Galactose metabolism [PATH:ko00052],0.677335147,3.97E-15,1.42E-14,1
+00053 Ascorbate and aldarate metabolism [PATH:ko00053],-0.631875105,8.23E-13,2.42E-12,1
+00061 Fatty acid biosynthesis [PATH:ko00061],-0.8334214,9.17E-28,4.76E-26,1
+00071 Fatty acid degradation [PATH:ko00071],0.24811414,0.011504221,0.014380276,1
+00072 Synthesis and degradation of ketone bodies [PATH:ko00072],0.613812996,5.42E-12,1.50E-11,1
+00100 Steroid biosynthesis [PATH:ko00100],-0.01115239,0.910976803,0.941753186,0
+00121 Secondary bile acid biosynthesis [PATH:ko00121],-0.212801091,0.030918424,0.036807648,1
+00130 Ubiquinone and other terpenoid-quinone biosynthesis [PATH:ko00130],-0.500673494,7.21E-08,1.44E-07,1
+00190 Oxidative phosphorylation [PATH:ko00190],0.009651473,0.922918122,0.941753186,0
+00194 Photosynthesis proteins [BR:ko00194],-0.69011632,7.42E-16,2.86E-15,1
+00195 Photosynthesis [PATH:ko00195],-0.695091033,3.78E-16,1.64E-15,1
+00220 Arginine biosynthesis [PATH:ko00220],0.802415608,2.23E-24,2.79E-23,1
+00230 Purine metabolism [PATH:ko00230],-0.1816033,0.066375959,0.076294205,0
+00240 Pyrimidine metabolism [PATH:ko00240],-0.436358826,4.07E-06,7.14E-06,1
+"00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]",0.47028341,5.38E-07,1.03E-06,1
+"00260 Glycine, serine and threonine metabolism [PATH:ko00260]",0.311375563,0.001366985,0.001798665,1
+00270 Cysteine and methionine metabolism [PATH:ko00270],0.75630254,2.54E-20,1.96E-19,1
+"00280 Valine, leucine and isoleucine degradation [PATH:ko00280]",0.548622255,1.98E-09,4.12E-09,1
+"00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]",0.601752454,1.79E-11,4.83E-11,1
+00300 Lysine biosynthesis [PATH:ko00300],-0.211806487,0.031729775,0.037329147,1
+00310 Lysine degradation [PATH:ko00310],-0.501696401,6.72E-08,1.37E-07,1
+00330 Arginine and proline metabolism [PATH:ko00330],0.561813737,6.64E-10,1.55E-09,1
+00340 Histidine metabolism [PATH:ko00340],-0.597208187,2.76E-11,7.09E-11,1
+00350 Tyrosine metabolism [PATH:ko00350],0.723270409,6.24E-18,3.47E-17,1
+00360 Phenylalanine metabolism [PATH:ko00360],0.721007943,8.84E-18,4.65E-17,1
+00361 Chlorocyclohexane and chlorobenzene degradation [PATH:ko00361],0.555691794,1.11E-09,2.36E-09,1
+00362 Benzoate degradation [PATH:ko00362],0.678123483,3.59E-15,1.33E-14,1
+00363 Bisphenol degradation [PATH:ko00363],0.002484789,0.980126652,0.990026921,0
+00364 Fluorobenzoate degradation [PATH:ko00364],0.74295468,2.60E-19,1.62E-18,1
+00365 Furfural degradation [PATH:ko00365],NaN,NaN,NaN,0
+00380 Tryptophan metabolism [PATH:ko00380],0.244216876,0.012917079,0.015752535,1
+"00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]",-0.499084805,8.05E-08,1.58E-07,1
+00410 beta-Alanine metabolism [PATH:ko00410],0.022794307,0.819223859,0.862340904,0
+00430 Taurine and hypotaurine metabolism [PATH:ko00430],0.32876874,0.000697176,0.000955035,1
+00440 Phosphonate and phosphinate metabolism [PATH:ko00440],0.585679954,8.12E-11,1.98E-10,1
+00450 Selenocompound metabolism [PATH:ko00450],0.759319354,1.47E-20,1.23E-19,1
+00460 Cyanoamino acid metabolism [PATH:ko00460],0.398822544,3.01E-05,4.85E-05,1
+00471 D-Glutamine and D-glutamate metabolism [PATH:ko00471],-0.465902045,7.07E-07,1.33E-06,1
+00472 D-Arginine and D-ornithine metabolism [PATH:ko00472],-0.655615369,5.69E-14,1.83E-13,1
+00473 D-Alanine metabolism [PATH:ko00473],-0.636731868,4.85E-13,1.47E-12,1
+00480 Glutathione metabolism [PATH:ko00480],-0.625302806,1.66E-12,4.73E-12,1
+00500 Starch and sucrose metabolism [PATH:ko00500],-0.356815543,0.000215903,0.000312902,1
+00511 Other glycan degradation [PATH:ko00511],0.559132424,8.33E-10,1.81E-09,1
+00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520],-0.336828061,0.000503382,0.000719117,1
+00531 Glycosaminoglycan degradation [PATH:ko00531],0.389082804,4.87E-05,7.61E-05,1
+00540 Lipopolysaccharide biosynthesis [PATH:ko00540],-0.3931342,3.99E-05,6.34E-05,1
+00550 Peptidoglycan biosynthesis [PATH:ko00550],-0.833285959,9.52E-28,4.76E-26,1
+00561 Glycerolipid metabolism [PATH:ko00561],-0.79497419,1.18E-23,1.31E-22,1
+00562 Inositol phosphate metabolism [PATH:ko00562],0.147006296,0.138391882,0.152078991,0
+00564 Glycerophospholipid metabolism [PATH:ko00564],0.025596985,0.797446928,0.857469815,0
+00565 Ether lipid metabolism [PATH:ko00565],0.70620153,7.94E-17,3.61E-16,1
+00600 Sphingolipid metabolism [PATH:ko00600],0.587480103,6.88E-11,1.72E-10,1
+00603 Glycosphingolipid biosynthesis - globo and isoglobo series [PATH:ko00603],0.375111974,9.46E-05,0.000145523,1
+00620 Pyruvate metabolism [PATH:ko00620],-0.20865407,0.034421153,0.040024596,1
+00621 Dioxin degradation [PATH:ko00621],-0.439098629,3.49E-06,6.22E-06,1
+00622 Xylene degradation [PATH:ko00622],0.750874144,6.66E-20,4.76E-19,1
+00623 Toluene degradation [PATH:ko00623],0.803274862,1.83E-24,2.62E-23,1
+00624 Polycyclic aromatic hydrocarbon degradation [PATH:ko00624],-0.646128279,1.70E-13,5.32E-13,1
+00625 Chloroalkane and chloroalkene degradation [PATH:ko00625],0.179917058,0.068980966,0.078387462,0
+00626 Naphthalene degradation [PATH:ko00626],0.244380189,0.01285497,0.015752535,1
+00627 Aminobenzoate degradation [PATH:ko00627],0.809196167,4.58E-25,9.17E-24,1
+00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630],0.559288567,8.22E-10,1.81E-09,1
+00633 Nitrotoluene degradation [PATH:ko00633],0.406758182,2.01E-05,3.35E-05,1
+00640 Propanoate metabolism [PATH:ko00640],-0.416141931,1.23E-05,2.09E-05,1
+00642 Ethylbenzene degradation [PATH:ko00642],0.560990945,7.12E-10,1.62E-09,1
+00643 Styrene degradation [PATH:ko00643],0.776220156,5.91E-22,5.91E-21,1
+00650 Butanoate metabolism [PATH:ko00650],0.743109163,2.53E-19,1.62E-18,1
+00660 C5-Branched dibasic acid metabolism [PATH:ko00660],0.36653798,0.000140111,0.000212289,1
+00670 One carbon pool by folate [PATH:ko00670],-0.708913622,5.36E-17,2.55E-16,1
+00680 Methane metabolism [PATH:ko00680],0.815406931,1.02E-25,2.88E-24,1
+00710 Carbon fixation in photosynthetic organisms [PATH:ko00710],-0.292562258,0.002710009,0.003430391,1
+00720 Carbon fixation pathways in prokaryotes [PATH:ko00720],0.58440034,9.13E-11,2.17E-10,1
+00730 Thiamine metabolism [PATH:ko00730],0.300169222,0.002066028,0.002648754,1
+00740 Riboflavin metabolism [PATH:ko00740],-0.024418613,0.806585055,0.858069207,0
+00750 Vitamin B6 metabolism [PATH:ko00750],0.156191172,0.115139347,0.129370053,0
+00760 Nicotinate and nicotinamide metabolism [PATH:ko00760],-0.693733645,4.55E-16,1.89E-15,1
+00770 Pantothenate and CoA biosynthesis [PATH:ko00770],0.398980644,2.99E-05,4.85E-05,1
+00780 Biotin metabolism [PATH:ko00780],0.4564325,1.26E-06,2.34E-06,1
+00785 Lipoic acid metabolism [PATH:ko00785],-0.732607564,1.43E-18,8.42E-18,1
+00790 Folate biosynthesis [PATH:ko00790],-0.14735047,0.137460736,0.152078991,0
+00791 Atrazine degradation [PATH:ko00791],0.444413894,2.57E-06,4.67E-06,1
+00860 Porphyrin and chlorophyll metabolism [PATH:ko00860],-0.216111225,0.028343382,0.034148653,1
+00910 Nitrogen metabolism [PATH:ko00910],0.357043127,0.000213762,0.000312902,1
+00920 Sulfur metabolism [PATH:ko00920],0.3005351,0.002038869,0.002647881,1
+00930 Caprolactam degradation [PATH:ko00930],0.598423929,2.46E-11,6.48E-11,1
+00980 Metabolism of xenobiotics by cytochrome P450 [PATH:ko00980],0.334688886,0.000549307,0.000773672,1
+00982 Drug metabolism - cytochrome P450 [PATH:ko00982],0.323923629,0.000844394,0.001141073,1
+00983 Drug metabolism - other enzymes [PATH:ko00983],0.805791599,1.02E-24,1.70E-23,1
+00984 Steroid degradation [PATH:ko00984],0.712483937,3.18E-17,1.59E-16,1
+01003 Glycosyltransferases [BR:ko01003],0.363671032,0.000159393,0.0002379,1
+01004 Lipid biosynthesis proteins [BR:ko01004],-0.658442307,4.07E-14,1.36E-13,1
+01005 Lipopolysaccharide biosynthesis proteins [BR:ko01005],-0.333248755,0.000582357,0.000808829,1
+01007 Amino acid related enzymes [BR:ko01007],0.66049325,3.19E-14,1.10E-13,1
+01011 Peptidoglycan biosynthesis and degradation proteins [BR:ko01011],-0.814901122,1.15E-25,2.88E-24,1
+01040 Biosynthesis of unsaturated fatty acids [PATH:ko01040],0.69280815,5.16E-16,2.06E-15,1
